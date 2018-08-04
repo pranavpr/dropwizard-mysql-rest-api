@@ -3,7 +3,7 @@ package net.pranavprakash;
 import io.dropwizard.Application;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;
-import net.pranavprakash.api.TodoResource;
+import net.pranavprakash.resources.TodoResource;
 import net.pranavprakash.core.TodoService;
 import net.pranavprakash.health.TodoHealthCheck;
 import org.skife.jdbi.v2.DBI;

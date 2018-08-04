@@ -1,4 +1,4 @@
-package net.pranavprakash.api;
+package net.pranavprakash.resources;
 
 import com.codahale.metrics.annotation.Timed;
 import net.pranavprakash.core.Todo;
