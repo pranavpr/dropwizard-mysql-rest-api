@@ -3,7 +3,6 @@ package net.pranavprakash;
 import io.dropwizard.Configuration;
 import io.dropwizard.db.DataSourceFactory;
 import com.fasterxml.jackson.annotation.JsonProperty;
-import org.hibernate.validator.constraints.*;
 
 import javax.validation.Valid;
 import javax.validation.constraints.NotNull;
